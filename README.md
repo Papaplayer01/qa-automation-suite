@@ -1,3 +1,5 @@
+![Tests](https://github.com/Papaplayer01/qa-automation-suite/actions/workflows/tests.yml/badge.svg)
+
 # QA Automation Suite (Java + Playwright + JUnit 5)
 
 UI and API test automation, run automatically in CI.
